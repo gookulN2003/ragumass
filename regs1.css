@@ -1,0 +1,27 @@
+form{
+  padding-bottom: 30px;
+    text-align: center;
+    margin: 20px 450px 20px 450px ;
+    background-color: aqua;
+  border-radius: 20px;
+}
+label{
+  padding: 8px;
+  font-weight:bold;
+    display: block;
+}
+body{
+  background-color:pink;
+}
+input[type=submit]{
+  color: aliceblue;
+  background-color: chartreuse;
+}
+input[type=submit]:hover{
+  
+  background-color: yellow;
+}
+#buji{
+  padding: 10px;
+  font-size: 15px;
+}
